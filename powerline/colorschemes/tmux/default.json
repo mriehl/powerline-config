@@ -8,7 +8,7 @@
 		"time:divider": { "fg": "gray5", "bg": "gray2" },
 		"email_alert": { "fg": "white", "bg": "brightred", "attr": ["bold"] },
 		"email_alert_gradient": { "fg": "white", "bg": "yellow_orange_red", "attr": ["bold"] },
-		"hostname": { "fg": "black", "bg": "gray10", "attr": ["bold"] },
+		"hostname": { "fg": "black", "bg": "yellow", "attr": ["bold"] },
 		"weather": { "fg": "gray8", "bg": "steelblue" },
 		"weather_temp_gradient": { "fg": "white", "bg": "steelblue" },
 		"weather_condition_hot": { "fg": "khaki1", "bg": "gray0" },
