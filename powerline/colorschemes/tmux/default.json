@@ -14,11 +14,11 @@
 		"weather_condition_hot": { "fg": "khaki1", "bg": "gray0" },
 		"weather_condition_snowy": { "fg": "skyblue1", "bg": "gray0" },
 		"weather_condition_rainy": { "fg": "skyblue1", "bg": "gray0" },
-		"uptime": { "fg": "azure4", "bg": "white" },
+		"uptime": { "fg": "lightyellowgreen", "bg": "white" },
 		"external_ip": { "fg": "gray8", "bg": "gray0" },
 		"network_load": { "fg": "darkorange3", "bg": "white" },
 		"network_load_gradient": { "fg": "green_yellow_orange_red", "bg": "gray0" },
-		"system_load": { "fg": "azure", "bg": "gold3" },
-		"system_load_gradient": { "fg": "green_yellow_orange_red", "bg": "gray0" }
+		"system_load": { "fg": "white", "bg": "azure4" },
+		"system_load_gradient": { "fg": "white", "bg": "azure4" }
 	}
 }
