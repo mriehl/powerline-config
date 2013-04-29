@@ -25,10 +25,6 @@
 				"priority": 50
 			},
 			{
-				"name": "external_ip",
-				"priority": 50
-			},
-			{
 				"name": "network_load",
 				"priority": 50
 			},

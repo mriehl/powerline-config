@@ -14,7 +14,7 @@
 		"weather_condition_hot": { "fg": "khaki1", "bg": "gray0" },
 		"weather_condition_snowy": { "fg": "skyblue1", "bg": "gray0" },
 		"weather_condition_rainy": { "fg": "skyblue1", "bg": "gray0" },
-		"uptime": { "fg": "lightyellowgreen", "bg": "white" },
+		"uptime": { "fg": "white", "bg": "gray61" },
 		"external_ip": { "fg": "yellow", "bg": "gray0" },
 		"network_load": { "fg": "darkorange3", "bg": "white" },
 		"network_load_gradient": { "fg": "green_yellow_orange_red", "bg": "gray0" },
